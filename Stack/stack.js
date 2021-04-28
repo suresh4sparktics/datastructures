@@ -5,6 +5,7 @@ class Node {
   }
 }
 
+// LIFO Last IN First OUT
 class Stack {
   constructor() {
     this.first = null;
